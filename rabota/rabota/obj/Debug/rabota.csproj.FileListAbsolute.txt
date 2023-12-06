@@ -1,0 +1,7 @@
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\bin\Debug\rabota.exe.config
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\bin\Debug\rabota.exe
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\bin\Debug\rabota.pdb
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\obj\Debug\rabota.csproj.AssemblyReference.cache
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\obj\Debug\rabota.csproj.CoreCompileInputs.cache
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\obj\Debug\rabota.exe
+C:\Users\ZuckerkaBarm\Desktop\сурпо\Repository\rabota\rabota\obj\Debug\rabota.pdb
